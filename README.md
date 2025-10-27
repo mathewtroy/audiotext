@@ -26,10 +26,10 @@ after that, the program automatically saves everything and exits.
 ### 2. Select root package
 `cd audiotext`
 
-### 3. Install dependencies**
+### 3. Install dependencies
 `pip install -r requirements.txt`
 
-### 4. Run the program**
+### 4. Run the program
 `python main.py`
 
 ---
